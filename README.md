@@ -1,5 +1,42 @@
-# 💫 About Me:
-Hi there, I'm Zaid! 👋<br>Welcome to my GitHub! I'm a Software Engineer based in Sulaymaniyah, Iraq, passionate about building robust digital infrastructure and leading community-driven initiatives. By blending my technical expertise in full-stack development with a strong background in business administration and project management, I focus on creating technology that makes a real-world impact.<br><br>🚀 About Me<br>🎓 Graduated with a B.Sc. in Software Engineering (Minor in Business Administration) from the American University of Iraq, Sulaimani.<br>💼 Currently working as a Customer Engagement Officer at AsiaPay, while also serving as the Vice President of the UN Youth Advisory Council Iraq (UNYAC).<br>💡 Deeply interested in tech-for-good and digital transformation. I've proposed and worked on initiatives like a digital residency management system for the KRG and digital grocery infrastructure to support residents in Sinjar.<br>🌍 Passionate about international leadership and climate advocacy, having proudly served as an official youth delegate for COP29 in Baku.<br>💻 Tech Stack & Tools<br>Languages & Frameworks: TypeScript, React, Node.js, Flask<br>Infrastructure & DevOps: Docker, Kubernetes, Firebase<br>AI & Developer Tools: Gemini Code Assist, Copilot, Wix Studio<br>🌱 What I'm currently exploring<br>Bridging the gap between hands-on software development and high-level project management.<br>Leveraging AI productivity tools and containerization (Docker/Kubernetes) to streamline the development lifecycle.<br>📫 Let's Connect!<br>I'm always open to collaborating on impactful software projects, discussing modern web architecture, or chatting about youth leadership and tech advocacy.<br>LinkedIn: https://www.linkedin.com/in/zaid-khudhur-b52507183/
+# 💫 Hi there, I'm Zaid! 👋
+
+Welcome to my GitHub! I'm a **Software Engineer** based in Sulaymaniyah, Iraq, passionate about building robust digital infrastructure and leading community-driven initiatives. By blending my technical expertise in full-stack development with a strong background in business administration and project management, I focus on creating technology that makes a real-world impact.
+
+## 🚀 About Me
+
+* 🎓 **Education:** Graduated with a B.Sc. in Software Engineering (Minor in Business Administration) from the American University of Iraq, Sulaimani.
+* 💼 **Current Roles:** Customer Engagement Officer at AsiaPay, while also serving as the Vice President of the UN Youth Advisory Council Iraq (UNYAC).
+* 💡 **Tech-for-Good:** Deeply interested in digital transformation. I've proposed and worked on initiatives like a digital residency management system for the KRG and digital grocery infrastructure to support residents in Sinjar.
+* 🌍 **Global Advocacy:** Passionate about international leadership and climate advocacy, having proudly served as an official youth delegate for COP29 in Baku.
+
+## 💻 Tech Stack & Tools
+
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### AI & Developer Tools
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-232F3E?style=flat-square&logo=github&logoColor=white)
+![Wix Studio](https://img.shields.io/badge/Wix_Studio-000000?style=flat-square&logo=wix&logoColor=white)
+
+## 🌱 What I'm currently exploring
+
+* 🏗️ Bridging the gap between hands-on software development and high-level project management.
+* 🤖 Leveraging AI productivity tools and containerization (Docker/Kubernetes) to streamline the development lifecycle.
+
+## 📫 Let's Connect!
+
+I'm always open to collaborating on impactful software projects, discussing modern web architecture, or chatting about youth leadership and tech advocacy.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-khudhur-b52507183/)
 
 
 ## 🌐 Socials:
