@@ -46,37 +46,28 @@ Welcome to my GitHub! I'm passionate about building robust digital infrastructur
 
 ## 📊 GitHub Dashboard
 
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Zak9110&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+<!-- Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Zak9110&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<br>
+<!-- Stats & Languages -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zak9110&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zak9110&theme=radical&hide_border=true&layout=compact)
 
-<div align="center">
-  <!-- Main GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Zak9110&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zak9110&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
+<!-- Streak & Quotes -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zak9110&theme=radical&hide_border=true)
+![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
+---
 
-<div align="center">
-  <!-- Contribution Streak & Dev Quote -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zak9110&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
-</div>
+## 🚀 Live Projects & Portfolio
 
-<br>
+Here are some of the recent platforms and systems I have built and deployed:
 
-### 🔝 Highlighted Projects
+| Project | Description | Live Link |
+| :--- | :--- | :--- |
+| 🏢 **ClientOS** | Client management operating system | [clientos.easykrd.com](https://clientos.easykrd.com/) |
+| 💰 **MoneyOS** | Financial management and tracking platform | [moneyos.easykrd.com](https://moneyos.easykrd.com/) |
+| 🛒 **OPOS** | Operations & Point of Sale system | [opos.easykrd.com](https://opos.easykrd.com/) |
+| 🇮🇶 **Iraq NRI** | National infrastructure and reporting platform | [iraqnri.com](https://iraqnri.com/) |
 
-<div align="center">
-  <!-- Dynamically generated repo cards - Update the 'repo=' parameter to match any of your public repos -->
-  <a href="https://github.com/Zak9110/KRG-Residency-System_V2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zak9110&repo=KRG-Residency-System_V2&theme=radical&show_icons=true" alt="KRG e-Visit System" />
-  </a>
-  <a href="https://github.com/Zak9110/NRI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zak9110&repo=NRI&theme=radical&show_icons=true" alt="NRI Project" />
-  </a>
-</div>
+*(Note: Since these are private enterprise systems, the source code is confidential, but the production builds are live above).*
