@@ -2,7 +2,6 @@
   <h1>💫 Hi there, I'm Zaid! 👋</h1>
   <h3>Software Engineer | Project Manager | Tech-for-Good Advocate</h3>
   <p><i>Based in Sulaymaniyah, Iraq 🇮🇶</i></p>
-  <img src="https://komarev.com/ghpvc/?username=Zak9110&style=flat-square&color=blue" alt="Profile Views" />
   <br><br>
   <a href="https://www.linkedin.com/in/zaid-khudhur-b52507183/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -48,26 +47,36 @@ Welcome to my GitHub! I'm passionate about building robust digital infrastructur
 ## 📊 GitHub Dashboard
 
 <div align="center">
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Zak9110&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Zak9110&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Zak9110&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195" alt="Top Languages" />
+  <!-- Main GitHub Stats & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Zak9110&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zak9110&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zak9110&theme=radical&hide_border=false" height="195" alt="GitHub Streak" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="195" alt="Developer Quote" />
+  <!-- Contribution Streak & Dev Quote -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zak9110&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
 </div>
 
 <br>
 
-### 🔝 Top Contributed Repository
+### 🔝 Highlighted Projects
+
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Zak9110&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <!-- Dynamically generated repo cards - Update the 'repo=' parameter to match any of your public repos -->
+  <a href="https://github.com/Zak9110/KRG-Residency-System_V2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zak9110&repo=KRG-Residency-System_V2&theme=radical&show_icons=true" alt="KRG e-Visit System" />
+  </a>
+  <a href="https://github.com/Zak9110/NRI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zak9110&repo=NRI&theme=radical&show_icons=true" alt="NRI Project" />
+  </a>
 </div>
